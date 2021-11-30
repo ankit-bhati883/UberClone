@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.firebase:geofire-android-common:3.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.jdks/caches/transforms-3/b9d656d400ce6a7660b9a756f05cf08b/transformed/jetified-geofire-android-common-3.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/caches/transforms-3/b9d656d400ce6a7660b9a756f05cf08b/transformed/jetified-geofire-android-common-3.1.0/res" />
+      <root url="file://$USER_HOME$/.jdks/caches/transforms-3/b9d656d400ce6a7660b9a756f05cf08b/transformed/jetified-geofire-android-common-3.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.jdks/caches/modules-2/files-2.1/com.firebase/geofire-android-common/3.1.0/e6167220273775adf5b7265c0785e81b14664aae/geofire-android-common-3.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.jdks/caches/modules-2/files-2.1/com.firebase/geofire-android-common/3.1.0/1c07d2f6212272e407c965081afc2ead763d439e/geofire-android-common-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

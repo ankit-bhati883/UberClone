@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/project1/UberClone/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.1648148148148148" />
+        <entry key="..\:/project1/UberClone/app/src/main/res/drawable/ic_baseline_clear_24.xml" value="0.1648148148148148" />
+        <entry key="..\:/project1/UberClone/app/src/main/res/drawable/ic_baseline_directions_car_24.xml" value="0.1648148148148148" />
+        <entry key="..\:/project1/UberClone/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.1648148148148148" />
+        <entry key="..\:/project1/UberClone/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.2128205128205128" />
+        <entry key="..\:/project1/UberClone/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.21614583333333334" />
+        <entry key="..\:/project1/UberClone/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.20555555555555555" />
+        <entry key="..\:/project1/UberClone/app/src/main/res/drawable/side_nav_bar.xml" value="0.2128205128205128" />
+        <entry key="..\:/project1/UberClone/app/src/main/res/layout/activity_drivier_home.xml" value="0.2" />
+        <entry key="..\:/project1/UberClone/app/src/main/res/layout/activity_maps.xml" value="0.2" />
+        <entry key="..\:/project1/UberClone/app/src/main/res/layout/app_bar_drivier_home.xml" value="0.2" />
+        <entry key="..\:/project1/UberClone/app/src/main/res/layout/content_drivier_home.xml" value="0.2" />
+        <entry key="..\:/project1/UberClone/app/src/main/res/layout/fragment_gallery.xml" value="0.2" />
+        <entry key="..\:/project1/UberClone/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/project1/UberClone/app/src/main/res/layout/fragment_slideshow.xml" value="0.2" />
+        <entry key="..\:/project1/UberClone/app/src/main/res/layout/nav_header_drivier_home.xml" value="0.2" />
+        <entry key="..\:/project1/UberClone/app/src/main/res/layout/register_layout.xml" value="0.2" />
+        <entry key="..\:/project1/UberClone/app/src/main/res/layout/signin.xml" value="0.19444444444444445" />
+        <entry key="..\:/project1/UberClone/app/src/main/res/layout/splash_activity.xml" value="0.2" />
+        <entry key="..\:/project1/UberClone/app/src/main/res/menu/activity_main_drawer.xml" value="0.2" />
+        <entry key="..\:/project1/UberClone/app/src/main/res/menu/drivier_home.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
